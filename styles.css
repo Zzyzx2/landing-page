@@ -69,3 +69,7 @@ a {
     justify-content: space-around;
     padding: 64px;
 }
+
+.hero-left {
+    width: 450px;
+}
