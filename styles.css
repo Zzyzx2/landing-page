@@ -41,3 +41,8 @@ button,
     font-style: italic;
     color: #1F2937;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+}
