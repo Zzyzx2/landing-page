@@ -35,3 +35,9 @@ button,
 .quote-section {
     background-color: #E5E7Eb;
 }
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
