@@ -25,3 +25,9 @@ button,
 .call-to-action {
     background-color: #3882F6;
 }
+
+.information-header-text {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+}
