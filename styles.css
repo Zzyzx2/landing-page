@@ -63,3 +63,9 @@ a {
     display: flex;
     gap: 24px;
 }
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+    padding: 64px;
+}
