@@ -46,3 +46,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
