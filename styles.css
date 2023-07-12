@@ -75,3 +75,7 @@ a {
 .hero-left {
     width: 450px;
 }
+
+button {
+    padding: 6px 32px;
+}
