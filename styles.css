@@ -71,7 +71,7 @@ a {
 .hero {
     display: flex;
     justify-content: space-around;
-    padding: 96px;
+    padding: 96px 192px 128px 192px;
 }
 
 .hero-left {
