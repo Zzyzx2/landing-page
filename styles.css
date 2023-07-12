@@ -89,4 +89,5 @@ button {
     color: #F9FAF8;
     background-color: #e5e7eb5b;
     display: flex;
+    align-items: center;
 }
