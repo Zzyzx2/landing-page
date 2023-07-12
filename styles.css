@@ -83,3 +83,7 @@ button {
     border-radius: 10px;
     border: none;
 }
+
+#image-placeholder {
+    color: #F9FAF8;
+}
