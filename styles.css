@@ -90,4 +90,5 @@ button {
     background-color: #e5e7eb5b;
     display: flex;
     align-items: center;
+    padding: 0 128px;
 }
