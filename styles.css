@@ -9,6 +9,7 @@
     font-weight: 800;
     color: #F9FAF8;
     margin-bottom: -16px;
+    margin-top: -1px;
 }
 
 .hero-secondary-text,
@@ -69,7 +70,7 @@ a {
 .hero {
     display: flex;
     justify-content: space-around;
-    padding: 64px;
+    padding: 96px;
 }
 
 .hero-left {
