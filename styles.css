@@ -142,3 +142,7 @@ button {
 #cta-signup {
     border: solid #F9FAF8 2px;
 }
+
+#cta-header {
+    margin-bottom: -16px;
+}
