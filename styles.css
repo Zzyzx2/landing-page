@@ -97,6 +97,8 @@ button {
 
 .info-container {
     display: flex;
+    justify-content: center;
+    gap: 48px;
 }
 
 .info-image {
