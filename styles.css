@@ -138,3 +138,7 @@ button {
     justify-content: space-around;
     padding: 32px 0;
 }
+
+#cta-signup {
+    border: solid #F9FAF8 2px;
+}
