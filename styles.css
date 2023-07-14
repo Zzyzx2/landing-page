@@ -40,6 +40,8 @@ button,
 
 .quote-section {
     background-color: #E5E7Eb;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote-text {
