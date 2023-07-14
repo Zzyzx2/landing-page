@@ -146,3 +146,8 @@ button {
 #cta-header {
     margin-bottom: -16px;
 }
+
+#cta-right {
+    display: flex;
+    align-items: center;
+}
