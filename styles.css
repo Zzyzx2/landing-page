@@ -151,3 +151,10 @@ button {
     display: flex;
     align-items: center;
 }
+
+.footer {
+    color: #F9FAF8;
+    text-align: center;
+    padding: 40px 0;
+    font-size: large;
+}
