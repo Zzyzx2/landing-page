@@ -130,3 +130,7 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.call-to-action {
+    margin: 96px 192px;
+}
