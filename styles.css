@@ -101,4 +101,6 @@ button {
 
 .info-image {
     border: solid #3882F6 2px;
+    height: 150px;
+    width: 150px;
 }
