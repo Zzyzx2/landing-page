@@ -108,6 +108,7 @@ button {
     height: 150px;
     width: 150px;
     border-radius: 16px;
+    margin-bottom: 8px;
 }
 
 .text {
