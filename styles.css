@@ -104,3 +104,8 @@ button {
     height: 150px;
     width: 150px;
 }
+
+.text {
+    width: 150px;
+    text-align: center;
+}
