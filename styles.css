@@ -120,3 +120,7 @@ button {
     text-align: center;
     color: #1F2937;
 }
+
+#signature {
+    display: flex;
+}
