@@ -42,6 +42,7 @@ button,
     background-color: #E5E7Eb;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .quote-text {
